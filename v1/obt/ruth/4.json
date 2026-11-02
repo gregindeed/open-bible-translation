@@ -1,0 +1,176 @@
+{
+ "edition": "obt",
+ "edition_name": "Open Bible Translation",
+ "language": "en",
+ "book": {
+  "index": 7,
+  "osis": "Ruth",
+  "slug": "ruth",
+  "name": "Ruth"
+ },
+ "source": "Westminster Leningrad Codex (public domain)",
+ "license": "CC BY-SA 4.0",
+ "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+ "attribution": "Open Bible Translation (OBT), github.com/gregindeed/open-bible-translation — CC BY-SA 4.0",
+ "status": {
+  "draft": 85,
+  "reviewed": 0,
+  "approved": 0
+ },
+ "updated": "2026-10-21",
+ "chapter": 4,
+ "verses": [
+  {
+   "verse": 1,
+   "text": "Boaz went up to the town gate and took a seat there. Just then the family redeemer he had spoken about was passing by. Boaz said, \"Come over here, So-and-so, and sit down.\" He came over and sat down.",
+   "notes": [
+    {
+     "text": "\"So-and-so\" (peloni almoni): the narrator leaves the man unnamed.",
+     "type": "meaning"
+    }
+   ],
+   "status": "draft"
+  },
+  {
+   "verse": 2,
+   "text": "Boaz also gathered ten of the town's elders and asked them to be seated, and they sat down.",
+   "status": "draft"
+  },
+  {
+   "verse": 3,
+   "text": "Then he said to the family redeemer, \"Naomi, back from the fields of Moab, is putting up for sale the piece of land that belonged to our brother Elimelech.",
+   "notes": [
+    {
+     "text": "\"our brother\": our relative.",
+     "type": "alternative"
+    }
+   ],
+   "status": "draft"
+  },
+  {
+   "verse": 4,
+   "text": "I wanted to bring it to your attention: buy it in front of the men seated here and the elders of my people. If you mean to redeem it, do so. If not, tell me so I know—for the right of redemption is yours first, and mine after yours.\" \"I will redeem it,\" he said.",
+   "status": "draft"
+  },
+  {
+   "verse": 5,
+   "text": "Boaz said, \"The day you buy the field from Naomi, you also acquire Ruth the Moabite, the dead man's widow, so that the dead man's name stays with his land.\"",
+   "notes": [
+    {
+     "text": "The written Hebrew reads \"I acquire\"; the traditional reading (qere) is \"you acquire,\" which we follow.",
+     "type": "text"
+    }
+   ],
+   "status": "draft"
+  },
+  {
+   "verse": 6,
+   "text": "\"In that case I can't redeem it,\" the family redeemer replied, \"or I would put my own estate at risk. You redeem it—take over my right—because I am unable to.\"",
+   "status": "draft"
+  },
+  {
+   "verse": 7,
+   "text": "In earlier times in Israel, to settle any matter of redemption or exchange, a man would take off his sandal and hand it to the other party. That was how an agreement was made binding in Israel.",
+   "status": "draft"
+  },
+  {
+   "verse": 8,
+   "text": "So the family redeemer said to Boaz, \"Buy it yourself,\" and he took off his sandal.",
+   "status": "draft"
+  },
+  {
+   "verse": 9,
+   "text": "Boaz then addressed the elders and all the people: \"Today you are witnesses that I have acquired from Naomi everything that belonged to Elimelech and everything that belonged to Chilion and Mahlon.",
+   "status": "draft"
+  },
+  {
+   "verse": 10,
+   "text": "I have also acquired Ruth the Moabite, Mahlon's widow, to be my wife, so that the dead man's name stays with his land and does not vanish from his family or from the gate of his hometown. Today you are witnesses.\"",
+   "status": "draft"
+  },
+  {
+   "verse": 11,
+   "text": "All the people at the gate, and the elders, answered, \"We are witnesses! The woman entering your home—may the LORD make her like Rachel and Leah, the two who built up Israel's household. May you show your worth in Ephrathah and make a name in Bethlehem.",
+   "notes": [
+    {
+     "text": "\"show your worth\": also \"prosper\"; it is the same word as in 2:1 and 3:11.",
+     "type": "alternative"
+    }
+   ],
+   "status": "draft"
+  },
+  {
+   "verse": 12,
+   "text": "Through the children the LORD gives you by this young woman, may your family become like that of Perez, the son Tamar bore to Judah.\"",
+   "status": "draft"
+  },
+  {
+   "verse": 13,
+   "text": "So Boaz took Ruth home as his wife. He lay with her, the LORD let her conceive, and she gave birth to a son.",
+   "status": "draft"
+  },
+  {
+   "verse": 14,
+   "text": "The women told Naomi, \"Praise the LORD, who today has not left you without a family redeemer! May his name be celebrated throughout Israel.",
+   "notes": [
+    {
+     "text": "\"his name\" may refer to the child or to the LORD.",
+     "type": "alternative"
+    }
+   ],
+   "status": "draft"
+  },
+  {
+   "verse": 15,
+   "text": "He will bring you back to life and care for you when you are old. Your daughter-in-law, who loves you and is worth more to you than seven sons, has borne him.\"",
+   "notes": [
+    {
+     "text": "\"bring you back to life\" uses the verb \"return\" that runs through chapter 1.",
+     "type": "meaning"
+    }
+   ],
+   "status": "draft"
+  },
+  {
+   "verse": 16,
+   "text": "Naomi took the child in her arms, held him on her lap, and became the one who cared for him.",
+   "status": "draft"
+  },
+  {
+   "verse": 17,
+   "text": "The women of the neighborhood named him. \"Naomi has a son!\" they said, and they called him Obed. He became the father of Jesse, who was the father of David.",
+   "notes": [
+    {
+     "text": "Obed: \"servant,\" \"one who serves.\"",
+     "type": "meaning"
+    }
+   ],
+   "status": "draft"
+  },
+  {
+   "verse": 18,
+   "text": "This is the family line of Perez: Perez was the father of Hezron,",
+   "status": "draft"
+  },
+  {
+   "verse": 19,
+   "text": "Hezron was the father of Ram, Ram was the father of Amminadab,",
+   "status": "draft"
+  },
+  {
+   "verse": 20,
+   "text": "Amminadab was the father of Nahshon, Nahshon was the father of Salmon,",
+   "status": "draft"
+  },
+  {
+   "verse": 21,
+   "text": "Salmon was the father of Boaz, Boaz was the father of Obed,",
+   "status": "draft"
+  },
+  {
+   "verse": 22,
+   "text": "Obed was the father of Jesse, and Jesse was the father of David.",
+   "status": "draft"
+  }
+ ]
+}

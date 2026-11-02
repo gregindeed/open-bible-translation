@@ -1,0 +1,191 @@
+{
+ "edition": "obt",
+ "edition_name": "Open Bible Translation",
+ "language": "en",
+ "book": {
+  "index": 7,
+  "osis": "Ruth",
+  "slug": "ruth",
+  "name": "Ruth"
+ },
+ "source": "Westminster Leningrad Codex (public domain)",
+ "license": "CC BY-SA 4.0",
+ "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+ "attribution": "Open Bible Translation (OBT), github.com/gregindeed/open-bible-translation — CC BY-SA 4.0",
+ "status": {
+  "draft": 85,
+  "reviewed": 0,
+  "approved": 0
+ },
+ "updated": "2026-10-21",
+ "chapter": 2,
+ "verses": [
+  {
+   "verse": 1,
+   "text": "Naomi had a relative on her husband's side, a man of great worth from Elimelech's clan, named Boaz.",
+   "notes": [
+    {
+     "text": "\"of great worth\": also \"wealthy and influential,\" \"of standing.\" The same word describes Ruth in 3:11.",
+     "type": "alternative"
+    }
+   ],
+   "status": "draft"
+  },
+  {
+   "verse": 2,
+   "text": "Ruth the Moabite said to Naomi, \"Let me go out to the fields and gather leftover grain behind someone who looks on me with favor.\" Naomi said to her, \"Go, my daughter.\"",
+   "status": "draft"
+  },
+  {
+   "verse": 3,
+   "text": "So she went out and gathered grain in the field behind the harvesters—and it so happened that the plot she came to was Boaz's, the man from Elimelech's clan.",
+   "status": "draft"
+  },
+  {
+   "verse": 4,
+   "text": "Just then Boaz arrived from Bethlehem and greeted the harvesters, \"The LORD be with you!\" They answered him, \"The LORD bless you!\"",
+   "status": "draft"
+  },
+  {
+   "verse": 5,
+   "text": "Boaz asked the young man in charge of the harvesters, \"Who does this young woman belong to?\"",
+   "status": "draft"
+  },
+  {
+   "verse": 6,
+   "text": "\"She's the Moabite girl,\" answered the young man in charge of the harvesters, \"the one who returned with Naomi from Moab's fields.",
+   "status": "draft"
+  },
+  {
+   "verse": 7,
+   "text": "She asked, 'Please let me glean and gather among the sheaves behind the harvesters.' So she came, and she has kept at it from morning until now; she has sat only a little while in the shelter.\"",
+   "notes": [
+    {
+     "text": "The end of this verse is difficult in Hebrew; the exact sense is uncertain.",
+     "type": "text"
+    }
+   ],
+   "status": "draft"
+  },
+  {
+   "verse": 8,
+   "text": "Then Boaz said to Ruth, \"Listen to me, my daughter. Don't go gleaning in anyone else's field, and don't move on from here. Stay right beside my young women.",
+   "status": "draft"
+  },
+  {
+   "verse": 9,
+   "text": "Watch which field they are reaping and walk behind them. I have ordered the young men not to lay a hand on you. When you are thirsty, go to the water jars and drink some of the water the young men have drawn.\"",
+   "status": "draft"
+  },
+  {
+   "verse": 10,
+   "text": "She bowed down with her face to the ground and said to him, \"How is it that you look on me with favor and pay attention to me—a foreigner?\"",
+   "notes": [
+    {
+     "text": "Hebrew wordplay: \"pay attention to me\" (lehakireni) and \"foreigner\" (nokhriyah) sound alike.",
+     "type": "meaning"
+    }
+   ],
+   "status": "draft"
+  },
+  {
+   "verse": 11,
+   "text": "Boaz answered her, \"I have heard the whole story of what you have done for your mother-in-law since your husband died—how you left your father and mother and the land where you were born, and came to live among a people you had never known.",
+   "status": "draft"
+  },
+  {
+   "verse": 12,
+   "text": "May the LORD reward your deeds. May you be paid in full by the LORD, the God of Israel, beneath whose wings you have come to find shelter.\"",
+   "notes": [
+    {
+     "text": "\"wings\" (kanaph) is the same word Ruth will use in 3:9 for the wing of Boaz's cloak.",
+     "type": "meaning"
+    }
+   ],
+   "status": "draft"
+  },
+  {
+   "verse": 13,
+   "text": "She said, \"May I keep finding favor with you, my lord. You have comforted me and spoken to the heart of your servant, though I am not even one of your servant women.\"",
+   "notes": [
+    {
+     "text": "\"spoken to the heart\": \"spoken kindly.\"",
+     "type": "alternative"
+    }
+   ],
+   "status": "draft"
+  },
+  {
+   "verse": 14,
+   "text": "At mealtime Boaz said to her, \"Come over here, have some bread, and dip your piece in the sour wine.\" So she sat down next to the harvesters, and he handed her some roasted grain. She ate her fill, and there was still some left.",
+   "notes": [
+    {
+     "text": "\"sour wine\": also \"vinegar,\" a sour dip for bread.",
+     "type": "alternative"
+    }
+   ],
+   "status": "draft"
+  },
+  {
+   "verse": 15,
+   "text": "As she rose to go on gleaning, Boaz gave orders to his young men: \"Let her gather even among the bundles, and don't embarrass her.",
+   "status": "draft"
+  },
+  {
+   "verse": 16,
+   "text": "Even draw out a few stalks from the bundles on purpose and leave them behind for her to pick up. Don't rebuke her.\"",
+   "status": "draft"
+  },
+  {
+   "verse": 17,
+   "text": "Ruth gathered in the field until evening. When she threshed what she had collected, it came to about an ephah of barley.",
+   "notes": [
+    {
+     "text": "An ephah: about 20 liters (5 gallons).",
+     "type": "measure"
+    }
+   ],
+   "status": "draft"
+  },
+  {
+   "verse": 18,
+   "text": "She picked it up and went into town, and her mother-in-law saw how much she had gleaned. Ruth also brought out the food left over from her meal and gave it to her.",
+   "status": "draft"
+  },
+  {
+   "verse": 19,
+   "text": "Her mother-in-law asked her, \"Where did you gather grain today? Where did you work? May the one who noticed you be blessed!\" So Ruth told her whose field she had worked in. \"The man I worked for today,\" she said, \"is named Boaz.\"",
+   "status": "draft"
+  },
+  {
+   "verse": 20,
+   "text": "Naomi said to her daughter-in-law, \"May the LORD bless him! He has not stopped showing his loyal love to the living and the dead.\" Naomi added, \"That man is near kin to us. He is one of our family redeemers.\"",
+   "notes": [
+    {
+     "text": "The Hebrew allows \"his loyal love\" to be the LORD's or Boaz's.",
+     "type": "alternative"
+    },
+    {
+     "text": "\"family redeemer\" (goel): the relative responsible for buying back a family member's land, freedom or name.",
+     "type": "meaning"
+    }
+   ],
+   "status": "draft"
+  },
+  {
+   "verse": 21,
+   "text": "Ruth the Moabite said, \"He even told me, 'Stay with my young men until they have brought in my whole harvest.'\"",
+   "status": "draft"
+  },
+  {
+   "verse": 22,
+   "text": "Naomi said to Ruth her daughter-in-law, \"It's good, my daughter, for you to go out with his young women, so that no one bothers you in some other field.\"",
+   "status": "draft"
+  },
+  {
+   "verse": 23,
+   "text": "So Ruth stayed beside Boaz's young women and gleaned until both the barley and the wheat harvests were done. Meanwhile she made her home with her mother-in-law.",
+   "status": "draft"
+  }
+ ]
+}

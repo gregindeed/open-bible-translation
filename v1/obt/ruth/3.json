@@ -1,0 +1,176 @@
+{
+ "edition": "obt",
+ "edition_name": "Open Bible Translation",
+ "language": "en",
+ "book": {
+  "index": 7,
+  "osis": "Ruth",
+  "slug": "ruth",
+  "name": "Ruth"
+ },
+ "source": "Westminster Leningrad Codex (public domain)",
+ "license": "CC BY-SA 4.0",
+ "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+ "attribution": "Open Bible Translation (OBT), github.com/gregindeed/open-bible-translation — CC BY-SA 4.0",
+ "status": {
+  "draft": 85,
+  "reviewed": 0,
+  "approved": 0
+ },
+ "updated": "2026-10-21",
+ "chapter": 3,
+ "verses": [
+  {
+   "verse": 1,
+   "text": "One day Naomi her mother-in-law said to her, \"My daughter, shouldn't I look for a place of rest for you, where life will go well for you?",
+   "notes": [
+    {
+     "text": "\"a place of rest\": a secure home, as in 1:9.",
+     "type": "alternative"
+    }
+   ],
+   "status": "draft"
+  },
+  {
+   "verse": 2,
+   "text": "Now, Boaz—whose young women you have been working with—isn't he our relative? Tonight he will be winnowing barley on the threshing floor.",
+   "status": "draft"
+  },
+  {
+   "verse": 3,
+   "text": "So wash, put on perfume, put on your cloak, and go down to the threshing floor. But don't let him know you are there until he is done eating and drinking.",
+   "notes": [
+    {
+     "text": "The written Hebrew has \"your cloak\"; the traditional reading (qere) is \"your clothes.\"",
+     "type": "text"
+    }
+   ],
+   "status": "draft"
+  },
+  {
+   "verse": 4,
+   "text": "When he lies down, take note of the place where he lies. Then go in, uncover his feet, and lie down. He will tell you what you should do.\"",
+   "notes": [
+    {
+     "text": "\"his feet\": literally \"the place of his feet.\"",
+     "type": "alternative"
+    }
+   ],
+   "status": "draft"
+  },
+  {
+   "verse": 5,
+   "text": "Ruth answered her, \"I will do everything you say.\"",
+   "status": "draft"
+  },
+  {
+   "verse": 6,
+   "text": "She went down to the threshing floor and carried out all her mother-in-law's instructions.",
+   "status": "draft"
+  },
+  {
+   "verse": 7,
+   "text": "Boaz ate and drank, and with a contented heart he went to lie down beside the heap of grain. She crept in quietly, uncovered his feet, and lay down.",
+   "status": "draft"
+  },
+  {
+   "verse": 8,
+   "text": "In the middle of the night something startled the man; he turned, and found a woman lying at his feet.",
+   "status": "draft"
+  },
+  {
+   "verse": 9,
+   "text": "\"Who are you?\" he asked. She answered, \"I am Ruth, your servant. Spread the wing of your cloak over your servant, for you are a family redeemer.\"",
+   "notes": [
+    {
+     "text": "\"the wing of your cloak\": the same word as \"wings\" in 2:12. Ruth asks Boaz to become the answer to his own blessing; the gesture also signaled a promise of marriage.",
+     "type": "meaning"
+    }
+   ],
+   "status": "draft"
+  },
+  {
+   "verse": 10,
+   "text": "He said, \"May the LORD bless you, my daughter! This last act of loyal love is greater than the first, for you have not chased after the young men, rich or poor.",
+   "status": "draft"
+  },
+  {
+   "verse": 11,
+   "text": "Now, my daughter, don't be afraid. Whatever you ask, I will do for you. Everyone at the town gate knows you are a woman of worth.",
+   "notes": [
+    {
+     "text": "\"everyone at the town gate\": literally \"all the gate of my people,\" where the community gathered.",
+     "type": "alternative"
+    },
+    {
+     "text": "\"of worth\": the same word used for Boaz in 2:1.",
+     "type": "meaning"
+    }
+   ],
+   "status": "draft"
+  },
+  {
+   "verse": 12,
+   "text": "Yes, I am a family redeemer—but there is one more closely related than I am.",
+   "status": "draft"
+  },
+  {
+   "verse": 13,
+   "text": "Spend the night here. In the morning, if he will act as your redeemer, well and good—let him. But if he doesn't want to redeem you, I will redeem you myself, as surely as the LORD lives. Now lie here until morning.\"",
+   "status": "draft"
+  },
+  {
+   "verse": 14,
+   "text": "She lay at his feet until morning, then rose while it was still too dark to tell one person from another, because Boaz thought, \"No one must know that a woman came to the threshing floor.\"",
+   "notes": [
+    {
+     "text": "\"thought\": the Hebrew verb usually means \"said\"; it can introduce a thought.",
+     "type": "alternative"
+    }
+   ],
+   "status": "draft"
+  },
+  {
+   "verse": 15,
+   "text": "He said, \"Hold out the shawl you have on.\" When she did, he poured in six measures of barley and lifted it onto her. Then he went back to town.",
+   "notes": [
+    {
+     "text": "Most Hebrew manuscripts read \"he went\"; some, and several ancient versions, read \"she went.\"",
+     "type": "text"
+    },
+    {
+     "text": "The measure isn't named; probably an amount she could carry.",
+     "type": "measure"
+    }
+   ],
+   "status": "draft"
+  },
+  {
+   "verse": 16,
+   "text": "When Ruth came to her mother-in-law, Naomi asked, \"How did it go, my daughter?\" Ruth recounted everything the man had done for her.",
+   "notes": [
+    {
+     "text": "Literally \"Who are you, my daughter?\"",
+     "type": "alternative"
+    }
+   ],
+   "status": "draft"
+  },
+  {
+   "verse": 17,
+   "text": "\"He gave me these six measures of barley,\" she said. \"He told me, 'Don't go back to your mother-in-law empty.'\"",
+   "notes": [
+    {
+     "text": "\"empty\" recalls 1:21: Naomi came back empty; she will not be left that way.",
+     "type": "meaning"
+    }
+   ],
+   "status": "draft"
+  },
+  {
+   "verse": 18,
+   "text": "Naomi said, \"Sit tight, my daughter, until you see how things fall out. That man won't rest until he has resolved this today.\"",
+   "status": "draft"
+  }
+ ]
+}

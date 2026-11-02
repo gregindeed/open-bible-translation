@@ -1,0 +1,176 @@
+{
+ "edition": "vt",
+ "edition_name": "Versión Testigo",
+ "language": "es",
+ "book": {
+  "index": 7,
+  "osis": "Ruth",
+  "slug": "ruth",
+  "name": "Rut"
+ },
+ "source": "Westminster Leningrad Codex (public domain)",
+ "license": "CC BY-SA 4.0",
+ "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+ "attribution": "Versión Testigo (VT), edición en español de la Open Bible Translation, github.com/gregindeed/open-bible-translation — CC BY-SA 4.0",
+ "status": {
+  "draft": 85,
+  "reviewed": 0,
+  "approved": 0
+ },
+ "updated": "2026-10-21",
+ "chapter": 3,
+ "verses": [
+  {
+   "verse": 1,
+   "text": "Un día Noemí, su suegra, le dijo: «Hija mía, ¿no debo buscarte un lugar de descanso donde te vaya bien?",
+   "notes": [
+    {
+     "text": "«un lugar de descanso»: un hogar seguro, como en 1:9.",
+     "type": "alternativa"
+    }
+   ],
+   "status": "draft"
+  },
+  {
+   "verse": 2,
+   "text": "Ahora bien, ¿no es Booz, con cuyas muchachas has estado, pariente nuestro? Mira, esta noche él va a aventar la cebada en la era.",
+   "status": "draft"
+  },
+  {
+   "verse": 3,
+   "text": "Lávate, perfúmate, ponte tu manto y baja a la era; pero no dejes que él sepa que estás allí hasta que haya terminado de comer y de beber.",
+   "notes": [
+    {
+     "text": "El texto escrito dice «tu manto»; la lectura tradicional (qeré) dice «tus vestidos».",
+     "type": "texto"
+    }
+   ],
+   "status": "draft"
+  },
+  {
+   "verse": 4,
+   "text": "Cuando se acueste, fíjate en el lugar donde se acuesta; luego ve, descubre sus pies y acuéstate allí. Él te dirá lo que debes hacer».",
+   "notes": [
+    {
+     "text": "«sus pies»: literalmente «el lugar de sus pies».",
+     "type": "alternativa"
+    }
+   ],
+   "status": "draft"
+  },
+  {
+   "verse": 5,
+   "text": "Rut le respondió: «Haré todo lo que me dices».",
+   "status": "draft"
+  },
+  {
+   "verse": 6,
+   "text": "Bajó, pues, a la era e hizo todo lo que su suegra le había mandado.",
+   "status": "draft"
+  },
+  {
+   "verse": 7,
+   "text": "Booz comió y bebió, y con el corazón contento se fue a acostar junto al montón de grano. Entonces ella llegó en silencio, le descubrió los pies y se acostó.",
+   "status": "draft"
+  },
+  {
+   "verse": 8,
+   "text": "A medianoche, el hombre se sobresaltó, se dio vuelta, y vio que había una mujer acostada a sus pies.",
+   "status": "draft"
+  },
+  {
+   "verse": 9,
+   "text": "«¿Quién eres?», le preguntó. Ella respondió: «Soy Rut, tu sierva. Extiende el ala de tu manto sobre tu sierva, porque tú eres pariente redentor».",
+   "notes": [
+    {
+     "text": "«el ala de tu manto»: la misma palabra que «alas» en 2:12. Rut pide a Booz que sea la respuesta a su propia bendición; también era un gesto de compromiso matrimonial.",
+     "type": "significado"
+    }
+   ],
+   "status": "draft"
+  },
+  {
+   "verse": 10,
+   "text": "Él dijo: «¡Que el SEÑOR te bendiga, hija mía! Este último acto de amor leal es mayor que el primero, porque no has ido tras los jóvenes, sean pobres o ricos.",
+   "status": "draft"
+  },
+  {
+   "verse": 11,
+   "text": "Ahora, hija mía, no tengas miedo. Haré por ti todo lo que me pidas, porque todos en la ciudad saben que eres una mujer de valía.",
+   "notes": [
+    {
+     "text": "«todos en la ciudad»: literalmente «toda la puerta de mi pueblo», donde se reunía la comunidad.",
+     "type": "alternativa"
+    },
+    {
+     "text": "«de valía»: la misma palabra que describe a Booz en 2:1.",
+     "type": "significado"
+    }
+   ],
+   "status": "draft"
+  },
+  {
+   "verse": 12,
+   "text": "Es cierto que soy pariente redentor; pero hay otro redentor más cercano que yo.",
+   "status": "draft"
+  },
+  {
+   "verse": 13,
+   "text": "Quédate esta noche, y mañana, si él quiere redimirte, que lo haga; está bien. Pero si no quiere redimirte, ¡vive el SEÑOR que yo te redimiré! Quédate acostada hasta la mañana».",
+   "status": "draft"
+  },
+  {
+   "verse": 14,
+   "text": "Ella se quedó acostada a sus pies hasta la mañana, y se levantó antes de que se pudiera reconocer a nadie, porque Booz pensaba: «Que no se sepa que una mujer vino a la era».",
+   "notes": [
+    {
+     "text": "«pensaba»: el verbo hebreo suele significar «dijo»; también puede introducir un pensamiento.",
+     "type": "alternativa"
+    }
+   ],
+   "status": "draft"
+  },
+  {
+   "verse": 15,
+   "text": "Luego le dijo: «Trae el manto que llevas puesto y sujétalo». Ella lo sujetó, y él midió seis medidas de cebada y se las cargó encima. Después él se fue a la ciudad.",
+   "notes": [
+    {
+     "text": "Muchos manuscritos hebreos dicen «él se fue»; otros, y algunas versiones antiguas, «ella se fue».",
+     "type": "texto"
+    },
+    {
+     "text": "No se dice qué medida; probablemente una cantidad que ella pudiera cargar.",
+     "type": "medida"
+    }
+   ],
+   "status": "draft"
+  },
+  {
+   "verse": 16,
+   "text": "Cuando Rut llegó a donde estaba su suegra, esta le preguntó: «¿Cómo te fue, hija mía?». Y Rut le contó todo lo que aquel hombre había hecho por ella.",
+   "notes": [
+    {
+     "text": "Literalmente «¿Quién eres, hija mía?».",
+     "type": "alternativa"
+    }
+   ],
+   "status": "draft"
+  },
+  {
+   "verse": 17,
+   "text": "Y añadió: «Me dio estas seis medidas de cebada, pues me dijo: \"No vuelvas a tu suegra con las manos vacías\"».",
+   "notes": [
+    {
+     "text": "«vacías» recuerda 1:21: Noemí volvió vacía; ahora no volverá así.",
+     "type": "significado"
+    }
+   ],
+   "status": "draft"
+  },
+  {
+   "verse": 18,
+   "text": "Noemí le dijo: «Quédate tranquila, hija mía, hasta que sepas cómo termina el asunto, porque ese hombre no descansará hasta resolverlo hoy mismo».",
+   "status": "draft"
+  }
+ ]
+}

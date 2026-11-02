@@ -1,0 +1,58 @@
+{
+ "updated": "2026-11-02",
+ "api": "https://cdn.jsdelivr.net/gh/gregindeed/open-bible-translation@main/v1",
+ "editions": [
+  {
+   "code": "vt",
+   "name": "Versión Testigo",
+   "language": "es",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "attribution": "Versión Testigo (VT), edición en español de la Open Bible Translation, github.com/gregindeed/open-bible-translation — CC BY-SA 4.0",
+   "status": "draft",
+   "books": [
+    {
+     "index": 7,
+     "osis": "Ruth",
+     "slug": "ruth",
+     "name": "Rut",
+     "chapters": 4,
+     "verses": 85,
+     "status": {
+      "draft": 85,
+      "reviewed": 0,
+      "approved": 0
+     },
+     "updated": "2026-10-21",
+     "url": "https://cdn.jsdelivr.net/gh/gregindeed/open-bible-translation@main/v1/vt/ruth.json"
+    }
+   ]
+  },
+  {
+   "code": "obt",
+   "name": "Open Bible Translation",
+   "language": "en",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "attribution": "Open Bible Translation (OBT), github.com/gregindeed/open-bible-translation — CC BY-SA 4.0",
+   "status": "draft",
+   "books": [
+    {
+     "index": 7,
+     "osis": "Ruth",
+     "slug": "ruth",
+     "name": "Ruth",
+     "chapters": 4,
+     "verses": 85,
+     "status": {
+      "draft": 85,
+      "reviewed": 0,
+      "approved": 0
+     },
+     "updated": "2026-10-21",
+     "url": "https://cdn.jsdelivr.net/gh/gregindeed/open-bible-translation@main/v1/obt/ruth.json"
+    }
+   ]
+  }
+ ]
+}

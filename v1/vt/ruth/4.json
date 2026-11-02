@@ -1,0 +1,182 @@
+{
+ "edition": "vt",
+ "edition_name": "Versión Testigo",
+ "language": "es",
+ "book": {
+  "index": 7,
+  "osis": "Ruth",
+  "slug": "ruth",
+  "name": "Rut"
+ },
+ "source": "Westminster Leningrad Codex (public domain)",
+ "license": "CC BY-SA 4.0",
+ "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+ "attribution": "Versión Testigo (VT), edición en español de la Open Bible Translation, github.com/gregindeed/open-bible-translation — CC BY-SA 4.0",
+ "status": {
+  "draft": 85,
+  "reviewed": 0,
+  "approved": 0
+ },
+ "updated": "2026-10-21",
+ "chapter": 4,
+ "verses": [
+  {
+   "verse": 1,
+   "text": "Booz subió a la puerta de la ciudad y se sentó allí. En ese momento pasaba el pariente redentor de quien Booz había hablado, y Booz le dijo: «Ven, fulano, siéntate aquí». Él se acercó y se sentó.",
+   "notes": [
+    {
+     "text": "«fulano» (pelóni almoní): el narrador no dice su nombre.",
+     "type": "significado"
+    }
+   ],
+   "status": "draft"
+  },
+  {
+   "verse": 2,
+   "text": "Luego Booz tomó a diez hombres de los ancianos de la ciudad y les dijo: «Siéntense aquí». Y ellos se sentaron.",
+   "status": "draft"
+  },
+  {
+   "verse": 3,
+   "text": "Entonces dijo al pariente redentor: «Noemí, que ha vuelto de los campos de Moab, está vendiendo la parcela de tierra que pertenecía a nuestro hermano Elimelec.",
+   "notes": [
+    {
+     "text": "«nuestro hermano»: nuestro pariente.",
+     "type": "alternativa"
+    }
+   ],
+   "status": "draft"
+  },
+  {
+   "verse": 4,
+   "text": "Pensé informarte y decirte: \"Cómprala en presencia de los que están sentados aquí y de los ancianos de mi pueblo\". Si la vas a redimir, redímela; pero si no, dímelo para que yo lo sepa, porque nadie más que tú tiene el derecho de redimirla, y yo vengo después de ti». Él respondió: «Yo la redimiré».",
+   "status": "draft"
+  },
+  {
+   "verse": 5,
+   "text": "Booz le dijo: «El día que compres el campo de manos de Noemí, también adquieres a Rut la moabita, la viuda del difunto, para mantener el nombre del difunto sobre su heredad».",
+   "notes": [
+    {
+     "text": "El texto escrito dice «yo adquiero»; la lectura tradicional (qeré) dice «tú adquieres». Seguimos la lectura tradicional.",
+     "type": "texto"
+    }
+   ],
+   "status": "draft"
+  },
+  {
+   "verse": 6,
+   "text": "El pariente redentor respondió: «Entonces no puedo redimirla, porque perjudicaría mi propia heredad. Redímela tú; toma tú mi derecho de redención, porque yo no puedo hacerlo».",
+   "status": "draft"
+  },
+  {
+   "verse": 7,
+   "text": "Antiguamente, en Israel, para confirmar cualquier asunto de redención o de intercambio, uno se quitaba la sandalia y se la daba al otro. Así se daba validez a un acuerdo en Israel.",
+   "status": "draft"
+  },
+  {
+   "verse": 8,
+   "text": "Así que el pariente redentor dijo a Booz: «Cómprala tú». Y se quitó la sandalia.",
+   "status": "draft"
+  },
+  {
+   "verse": 9,
+   "text": "Entonces Booz dijo a los ancianos y a todo el pueblo: «Ustedes son hoy testigos de que he adquirido de manos de Noemí todo lo que pertenecía a Elimelec y todo lo que pertenecía a Quelión y a Mahlón.",
+   "status": "draft"
+  },
+  {
+   "verse": 10,
+   "text": "Además, he adquirido como esposa a Rut la moabita, viuda de Mahlón, para mantener el nombre del difunto sobre su heredad, para que su nombre no desaparezca de entre sus hermanos ni de la puerta de su ciudad. Ustedes son hoy testigos».",
+   "status": "draft"
+  },
+  {
+   "verse": 11,
+   "text": "Todo el pueblo que estaba a la puerta, y los ancianos, dijeron: «Somos testigos. Que el SEÑOR haga a la mujer que entra en tu casa como a Raquel y a Lea, las dos que edificaron la casa de Israel. Que muestres tu valía en Efrata y que tu nombre sea famoso en Belén.",
+   "notes": [
+    {
+     "text": "«Que muestres tu valía»: también «que prosperes»; es la misma palabra de 2:1 y 3:11.",
+     "type": "alternativa"
+    }
+   ],
+   "status": "draft"
+  },
+  {
+   "verse": 12,
+   "text": "Y por los hijos que el SEÑOR te dé de esta joven, que tu casa sea como la casa de Fares, el hijo que Tamar dio a Judá».",
+   "status": "draft"
+  },
+  {
+   "verse": 13,
+   "text": "Así que Booz tomó a Rut, y ella llegó a ser su esposa. Él se unió a ella, y el SEÑOR le concedió concebir, y dio a luz un hijo.",
+   "status": "draft"
+  },
+  {
+   "verse": 14,
+   "text": "Entonces las mujeres dijeron a Noemí: «¡Bendito sea el SEÑOR, que no te ha dejado hoy sin un redentor! Que su nombre sea famoso en Israel.",
+   "notes": [
+    {
+     "text": "«su nombre» puede referirse al niño o al SEÑOR.",
+     "type": "alternativa"
+    }
+   ],
+   "status": "draft"
+  },
+  {
+   "verse": 15,
+   "text": "Él te hará volver a la vida y te sostendrá en tu vejez, porque lo ha dado a luz tu nuera, que te ama y que vale para ti más que siete hijos».",
+   "notes": [
+    {
+     "text": "«te hará volver a la vida» usa el verbo «volver» que atraviesa el capítulo 1.",
+     "type": "significado"
+    }
+   ],
+   "status": "draft"
+  },
+  {
+   "verse": 16,
+   "text": "Noemí tomó al niño, lo puso en su regazo y se encargó de criarlo.",
+   "notes": [
+    {
+     "text": "«lo cuidó como nodriza»: más cerca de la palabra hebrea (omenet).",
+     "type": "alternativa"
+    }
+   ],
+   "status": "draft"
+  },
+  {
+   "verse": 17,
+   "text": "Las vecinas le pusieron un nombre, diciendo: «¡A Noemí le ha nacido un hijo!». Y lo llamaron Obed. Él fue el padre de Isaí, padre de David.",
+   "notes": [
+    {
+     "text": "Obed: «siervo», «el que sirve».",
+     "type": "significado"
+    }
+   ],
+   "status": "draft"
+  },
+  {
+   "verse": 18,
+   "text": "Estos son los descendientes de Fares: Fares fue el padre de Hezrón;",
+   "status": "draft"
+  },
+  {
+   "verse": 19,
+   "text": "Hezrón fue el padre de Ram; Ram fue el padre de Aminadab;",
+   "status": "draft"
+  },
+  {
+   "verse": 20,
+   "text": "Aminadab fue el padre de Naasón; Naasón fue el padre de Salmón;",
+   "status": "draft"
+  },
+  {
+   "verse": 21,
+   "text": "Salmón fue el padre de Booz; Booz fue el padre de Obed;",
+   "status": "draft"
+  },
+  {
+   "verse": 22,
+   "text": "Obed fue el padre de Isaí, e Isaí fue el padre de David.",
+   "status": "draft"
+  }
+ ]
+}

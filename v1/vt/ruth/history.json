@@ -1,0 +1,1114 @@
+{
+ "edition": "vt",
+ "edition_name": "Versión Testigo",
+ "language": "es",
+ "book": {
+  "index": 7,
+  "osis": "Ruth",
+  "slug": "ruth",
+  "name": "Rut"
+ },
+ "source": "Westminster Leningrad Codex (public domain)",
+ "license": "CC BY-SA 4.0",
+ "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+ "attribution": "Versión Testigo (VT), edición en español de la Open Bible Translation, github.com/gregindeed/open-bible-translation — CC BY-SA 4.0",
+ "status": {
+  "draft": 85,
+  "reviewed": 0,
+  "approved": 0
+ },
+ "updated": "2026-10-21",
+ "revisions": [
+  {
+   "chapter": 1,
+   "verse": 1,
+   "text": "En los días en que gobernaban los jueces, hubo hambre en el país. Y un hombre de Belén de Judá se fue a vivir como forastero en los campos de Moab, él con su esposa y sus dos hijos.",
+   "notes": [
+    {
+     "text": "Belén significa «casa de pan»: la historia empieza con hambre en la casa del pan.",
+     "type": "significado"
+    }
+   ],
+   "kind": "ai_draft",
+   "author": "ai:claude-opus-5-5",
+   "comment": null,
+   "created_at": "2026-10-20T06:42:39.298139+00:00"
+  },
+  {
+   "chapter": 1,
+   "verse": 2,
+   "text": "El hombre se llamaba Elimelec; su esposa, Noemí; y sus dos hijos, Mahlón y Quelión. Eran efrateos, de Belén de Judá. Llegaron a los campos de Moab y se quedaron allí.",
+   "notes": [
+    {
+     "text": "Elimelec: «mi Dios es rey». Noemí: «agradable».",
+     "type": "significado"
+    }
+   ],
+   "kind": "ai_draft",
+   "author": "ai:claude-opus-5-5",
+   "comment": null,
+   "created_at": "2026-10-20T06:42:39.640975+00:00"
+  },
+  {
+   "chapter": 1,
+   "verse": 3,
+   "text": "Pero Elimelec, el esposo de Noemí, murió, y ella quedó con sus dos hijos.",
+   "notes": [],
+   "kind": "ai_draft",
+   "author": "ai:claude-opus-5-5",
+   "comment": null,
+   "created_at": "2026-10-20T06:42:39.848699+00:00"
+  },
+  {
+   "chapter": 1,
+   "verse": 4,
+   "text": "Ellos se casaron con mujeres moabitas; una se llamaba Orfa y la otra, Rut. Vivieron allí unos diez años.",
+   "notes": [
+    {
+     "text": "«tomaron para sí mujeres moabitas».",
+     "type": "alternativa"
+    }
+   ],
+   "kind": "ai_draft",
+   "author": "ai:claude-opus-5-5",
+   "comment": null,
+   "created_at": "2026-10-20T06:42:40.053411+00:00"
+  },
+  {
+   "chapter": 1,
+   "verse": 5,
+   "text": "Luego murieron también los dos, Mahlón y Quelión, y la mujer quedó sin sus dos muchachos y sin su esposo.",
+   "notes": [
+    {
+     "text": "«muchachos» traduce yeladím (niños, muchachos), no la palabra habitual para «hijos»; el autor cambia de palabra a propósito.",
+     "type": "alternativa"
+    }
+   ],
+   "kind": "ai_draft",
+   "author": "ai:claude-opus-5-5",
+   "comment": null,
+   "created_at": "2026-10-20T06:42:40.291829+00:00"
+  },
+  {
+   "chapter": 1,
+   "verse": 6,
+   "text": "Entonces ella se levantó con sus nueras para volver de los campos de Moab, porque en los campos de Moab había oído que el SEÑOR había venido en ayuda de su pueblo y les había dado pan.",
+   "notes": [
+    {
+     "text": "«había visitado a su pueblo» (verbo paqad).",
+     "type": "alternativa"
+    },
+    {
+     "text": "«pan» (léjem) hace eco del nombre Belén, «casa de pan».",
+     "type": "significado"
+    }
+   ],
+   "kind": "ai_draft",
+   "author": "ai:claude-opus-5-5",
+   "comment": null,
+   "created_at": "2026-10-20T06:42:40.545541+00:00"
+  },
+  {
+   "chapter": 1,
+   "verse": 7,
+   "text": "Así que salió del lugar donde había vivido, y sus dos nueras con ella, y emprendieron el camino para volver a la tierra de Judá.",
+   "notes": [],
+   "kind": "ai_draft",
+   "author": "ai:claude-opus-5-5",
+   "comment": null,
+   "created_at": "2026-10-20T06:42:40.819468+00:00"
+  },
+  {
+   "chapter": 1,
+   "verse": 8,
+   "text": "Pero Noemí dijo a sus dos nueras: «Vayan, vuelva cada una a la casa de su madre. Que el SEÑOR les muestre amor leal, como ustedes lo han mostrado con los que murieron y conmigo.",
+   "notes": [
+    {
+     "text": "«amor leal» (jésed): también «bondad», «lealtad», «fidelidad».",
+     "type": "alternativa"
+    }
+   ],
+   "kind": "ai_draft",
+   "author": "ai:claude-opus-5-5",
+   "comment": null,
+   "created_at": "2026-10-20T06:42:41.026811+00:00"
+  },
+  {
+   "chapter": 1,
+   "verse": 9,
+   "text": "Que el SEÑOR les conceda encontrar descanso, cada una en la casa de un esposo». Y las besó; pero ellas alzaron la voz y lloraron,",
+   "notes": [
+    {
+     "text": "«descanso»: un hogar seguro, estabilidad.",
+     "type": "alternativa"
+    }
+   ],
+   "kind": "ai_draft",
+   "author": "ai:claude-opus-5-5",
+   "comment": null,
+   "created_at": "2026-10-20T06:42:41.463383+00:00"
+  },
+  {
+   "chapter": 1,
+   "verse": 10,
+   "text": "y le dijeron: «No; nosotras volveremos contigo a tu pueblo».",
+   "notes": [],
+   "kind": "ai_draft",
+   "author": "ai:claude-opus-5-5",
+   "comment": null,
+   "created_at": "2026-10-20T06:42:41.728128+00:00"
+  },
+  {
+   "chapter": 1,
+   "verse": 11,
+   "text": "Pero Noemí respondió: «Vuelvan, hijas mías. ¿Para qué van a venir conmigo? ¿Acaso tengo todavía hijos en mi vientre que puedan llegar a ser sus esposos?",
+   "notes": [],
+   "kind": "ai_draft",
+   "author": "ai:claude-opus-5-5",
+   "comment": null,
+   "created_at": "2026-10-20T06:42:41.949357+00:00"
+  },
+  {
+   "chapter": 1,
+   "verse": 12,
+   "text": "Vuelvan, hijas mías, váyanse, porque ya soy demasiado vieja para tener esposo. Y aunque dijera: \"Todavía tengo esperanza\", y aunque esta misma noche tuviera esposo y diera a luz hijos,",
+   "notes": [],
+   "kind": "ai_draft",
+   "author": "ai:claude-opus-5-5",
+   "comment": null,
+   "created_at": "2026-10-20T06:42:42.254139+00:00"
+  },
+  {
+   "chapter": 1,
+   "verse": 13,
+   "text": "¿los esperarían ustedes hasta que crecieran? ¿Se quedarían sin casarse por ellos? No, hijas mías; mi amargura es mucho mayor que la de ustedes, porque la mano del SEÑOR se ha levantado contra mí».",
+   "notes": [
+    {
+     "text": "El hebreo también puede entenderse: «me causa mucha amargura por causa de ustedes».",
+     "type": "alternativa"
+    }
+   ],
+   "kind": "ai_draft",
+   "author": "ai:claude-opus-5-5",
+   "comment": null,
+   "created_at": "2026-10-20T06:42:42.479173+00:00"
+  },
+  {
+   "chapter": 1,
+   "verse": 14,
+   "text": "Ellas volvieron a alzar la voz y a llorar. Luego Orfa besó a su suegra, pero Rut se aferró a ella.",
+   "notes": [],
+   "kind": "ai_draft",
+   "author": "ai:claude-opus-5-5",
+   "comment": null,
+   "created_at": "2026-10-20T06:42:42.680442+00:00"
+  },
+  {
+   "chapter": 1,
+   "verse": 15,
+   "text": "Noemí le dijo: «Mira, tu cuñada vuelve a su pueblo y a sus dioses. Vuelve tú también con tu cuñada».",
+   "notes": [],
+   "kind": "ai_draft",
+   "author": "ai:claude-opus-5-5",
+   "comment": null,
+   "created_at": "2026-10-20T06:42:42.890571+00:00"
+  },
+  {
+   "chapter": 1,
+   "verse": 16,
+   "text": "Pero Rut respondió: «No me pidas que te deje y que me vuelva atrás sin ti. A donde tú vayas, iré yo; donde tú pases la noche, allí la pasaré yo. Tu pueblo será mi pueblo, y tu Dios será mi Dios.",
+   "notes": [],
+   "kind": "ai_draft",
+   "author": "ai:claude-opus-5-5",
+   "comment": null,
+   "created_at": "2026-10-20T06:42:43.092444+00:00"
+  },
+  {
+   "chapter": 1,
+   "verse": 17,
+   "text": "Donde tú mueras, moriré yo, y allí seré sepultada. Que el SEÑOR me haga así, y aún peor, si otra cosa que la muerte me separa de ti».",
+   "notes": [
+    {
+     "text": "Fórmula de juramento: Rut pone su vida bajo el juicio del SEÑOR si no cumple.",
+     "type": "significado"
+    }
+   ],
+   "kind": "ai_draft",
+   "author": "ai:claude-opus-5-5",
+   "comment": null,
+   "created_at": "2026-10-20T06:42:43.411029+00:00"
+  },
+  {
+   "chapter": 1,
+   "verse": 18,
+   "text": "Cuando Noemí vio que Rut estaba decidida a ir con ella, dejó de insistirle.",
+   "notes": [],
+   "kind": "ai_draft",
+   "author": "ai:claude-opus-5-5",
+   "comment": null,
+   "created_at": "2026-10-20T06:42:43.597545+00:00"
+  },
+  {
+   "chapter": 1,
+   "verse": 19,
+   "text": "Así que las dos siguieron caminando hasta llegar a Belén. Cuando entraron en Belén, toda la ciudad se conmovió por causa de ellas, y las mujeres decían: «¿No es esta Noemí?».",
+   "notes": [],
+   "kind": "ai_draft",
+   "author": "ai:claude-opus-5-5",
+   "comment": null,
+   "created_at": "2026-10-20T06:42:43.832245+00:00"
+  },
+  {
+   "chapter": 1,
+   "verse": 20,
+   "text": "Ella les respondía: «No me llamen Noemí; llámenme Mara, porque el Todopoderoso me ha llenado de amargura.",
+   "notes": [
+    {
+     "text": "Noemí: «agradable»; Mara: «amarga».",
+     "type": "significado"
+    }
+   ],
+   "kind": "ai_draft",
+   "author": "ai:claude-opus-5-5",
+   "comment": null,
+   "created_at": "2026-10-20T06:42:44.016902+00:00"
+  },
+  {
+   "chapter": 1,
+   "verse": 20,
+   "text": "Ella les respondía: «No me llamen Noemí; llámenme Mara, porque el Todopoderoso ha hecho muy amarga mi vida.",
+   "notes": [
+    {
+     "text": "Noemí: «agradable»; Mara: «amarga».",
+     "type": "significado"
+    }
+   ],
+   "kind": "ai_draft",
+   "author": "ai:claude-opus-5-5",
+   "comment": "Closer to the Hebrew (הֵמַר … מְאֹד, \"has made very bitter\"); the first draft dropped \"very\". Flagged by the BSB comparison.",
+   "created_at": "2026-10-21T07:21:40.741116+00:00"
+  },
+  {
+   "chapter": 1,
+   "verse": 21,
+   "text": "Llena me fui, pero vacía me ha hecho volver el SEÑOR. ¿Por qué me llaman Noemí, si el SEÑOR ha dado testimonio contra mí y el Todopoderoso me ha afligido?».",
+   "notes": [
+    {
+     "text": "«ha dado testimonio contra mí» sigue el texto hebreo; la Septuaginta dice «me ha humillado».",
+     "type": "texto"
+    }
+   ],
+   "kind": "ai_draft",
+   "author": "ai:claude-opus-5-5",
+   "comment": null,
+   "created_at": "2026-10-20T06:42:44.23511+00:00"
+  },
+  {
+   "chapter": 1,
+   "verse": 22,
+   "text": "Así volvió Noemí, y con ella Rut la moabita, su nuera, que volvía de los campos de Moab. Llegaron a Belén al comienzo de la cosecha de la cebada.",
+   "notes": [],
+   "kind": "ai_draft",
+   "author": "ai:claude-opus-5-5",
+   "comment": null,
+   "created_at": "2026-10-20T06:42:44.576319+00:00"
+  },
+  {
+   "chapter": 2,
+   "verse": 1,
+   "text": "Noemí tenía un pariente por parte de su esposo, un hombre de gran valía, de la familia de Elimelec, que se llamaba Booz.",
+   "notes": [
+    {
+     "text": "«de gran valía»: también «rico e influyente», «de buena posición». La misma palabra describe a Rut en 3:11.",
+     "type": "alternativa"
+    }
+   ],
+   "kind": "ai_draft",
+   "author": "ai:claude-opus-5-5",
+   "comment": null,
+   "created_at": "2026-10-20T06:42:44.875898+00:00"
+  },
+  {
+   "chapter": 2,
+   "verse": 2,
+   "text": "Y Rut la moabita dijo a Noemí: «Déjame ir al campo a recoger espigas detrás de aquel ante cuyos ojos yo halle favor». Noemí le respondió: «Ve, hija mía».",
+   "notes": [],
+   "kind": "ai_draft",
+   "author": "ai:claude-opus-5-5",
+   "comment": null,
+   "created_at": "2026-10-20T06:42:45.071801+00:00"
+  },
+  {
+   "chapter": 2,
+   "verse": 3,
+   "text": "Ella fue, llegó y se puso a recoger espigas en el campo detrás de los segadores; y dio la casualidad de que aquella parte del campo pertenecía a Booz, que era de la familia de Elimelec.",
+   "notes": [],
+   "kind": "ai_draft",
+   "author": "ai:claude-opus-5-5",
+   "comment": null,
+   "created_at": "2026-10-20T06:42:45.285425+00:00"
+  },
+  {
+   "chapter": 2,
+   "verse": 4,
+   "text": "En ese momento llegaba Booz desde Belén, y dijo a los segadores: «¡El SEÑOR esté con ustedes!». Y ellos le respondieron: «¡Que el SEÑOR te bendiga!».",
+   "notes": [],
+   "kind": "ai_draft",
+   "author": "ai:claude-opus-5-5",
+   "comment": null,
+   "created_at": "2026-10-20T06:42:45.522165+00:00"
+  },
+  {
+   "chapter": 2,
+   "verse": 5,
+   "text": "Booz preguntó al joven que estaba a cargo de los segadores: «¿De quién es esta muchacha?».",
+   "notes": [],
+   "kind": "ai_draft",
+   "author": "ai:claude-opus-5-5",
+   "comment": null,
+   "created_at": "2026-10-20T06:42:45.733037+00:00"
+  },
+  {
+   "chapter": 2,
+   "verse": 6,
+   "text": "El joven a cargo de los segadores respondió: «Es la muchacha moabita que volvió con Noemí de los campos de Moab.",
+   "notes": [],
+   "kind": "ai_draft",
+   "author": "ai:claude-opus-5-5",
+   "comment": null,
+   "created_at": "2026-10-20T06:42:45.937039+00:00"
+  },
+  {
+   "chapter": 2,
+   "verse": 7,
+   "text": "Ella me dijo: \"Por favor, déjame recoger espigas y juntarlas entre las gavillas, detrás de los segadores\". Así que vino y ha estado aquí desde la mañana hasta ahora, salvo un breve descanso en la casa».",
+   "notes": [
+    {
+     "text": "El final del versículo es difícil en hebreo; el sentido exacto de «salvo un breve descanso en la casa» es incierto.",
+     "type": "texto"
+    }
+   ],
+   "kind": "ai_draft",
+   "author": "ai:claude-opus-5-5",
+   "comment": null,
+   "created_at": "2026-10-20T06:42:46.220694+00:00"
+  },
+  {
+   "chapter": 2,
+   "verse": 8,
+   "text": "Entonces Booz dijo a Rut: «Escucha bien, hija mía. No vayas a recoger espigas a otro campo, ni te vayas de aquí; quédate junto a mis muchachas.",
+   "notes": [],
+   "kind": "ai_draft",
+   "author": "ai:claude-opus-5-5",
+   "comment": null,
+   "created_at": "2026-10-20T06:42:46.452767+00:00"
+  },
+  {
+   "chapter": 2,
+   "verse": 9,
+   "text": "Fíjate en qué campo siegan y sigue tras ellas. ¿No he ordenado a los muchachos que no te molesten? Y cuando tengas sed, ve a las vasijas y bebe del agua que los muchachos saquen».",
+   "notes": [],
+   "kind": "ai_draft",
+   "author": "ai:claude-opus-5-5",
+   "comment": null,
+   "created_at": "2026-10-20T06:42:46.655336+00:00"
+  },
+  {
+   "chapter": 2,
+   "verse": 10,
+   "text": "Ella se postró rostro en tierra, inclinándose hasta el suelo, y le dijo: «¿Por qué he hallado favor ante tus ojos, para que te fijes en mí, siendo yo una extranjera?».",
+   "notes": [
+    {
+     "text": "En hebreo hay un juego de palabras entre «fijarse en mí» (lehakireni) y «extranjera» (nokriyá).",
+     "type": "significado"
+    }
+   ],
+   "kind": "ai_draft",
+   "author": "ai:claude-opus-5-5",
+   "comment": null,
+   "created_at": "2026-10-20T06:42:46.846825+00:00"
+  },
+  {
+   "chapter": 2,
+   "verse": 11,
+   "text": "Booz le respondió: «Me han contado con todo detalle lo que has hecho por tu suegra desde la muerte de tu esposo: cómo dejaste a tu padre, a tu madre y la tierra donde naciste, y viniste a un pueblo que antes no conocías.",
+   "notes": [],
+   "kind": "ai_draft",
+   "author": "ai:claude-opus-5-5",
+   "comment": null,
+   "created_at": "2026-10-20T06:42:47.110678+00:00"
+  },
+  {
+   "chapter": 2,
+   "verse": 12,
+   "text": "Que el SEÑOR te recompense por lo que has hecho; que recibas un pago completo de parte del SEÑOR, Dios de Israel, bajo cuyas alas has venido a refugiarte».",
+   "notes": [
+    {
+     "text": "«alas» (kanáf) es la misma palabra que Rut usará en 3:9 para el manto de Booz.",
+     "type": "significado"
+    }
+   ],
+   "kind": "ai_draft",
+   "author": "ai:claude-opus-5-5",
+   "comment": null,
+   "created_at": "2026-10-20T06:42:47.499434+00:00"
+  },
+  {
+   "chapter": 2,
+   "verse": 13,
+   "text": "Ella dijo: «Que yo halle favor ante tus ojos, señor mío, porque me has consolado y has hablado al corazón de tu sierva, aunque yo no soy ni siquiera como una de tus siervas».",
+   "notes": [
+    {
+     "text": "«has hablado al corazón»: «me has hablado con bondad».",
+     "type": "alternativa"
+    }
+   ],
+   "kind": "ai_draft",
+   "author": "ai:claude-opus-5-5",
+   "comment": null,
+   "created_at": "2026-10-20T06:42:47.698534+00:00"
+  },
+  {
+   "chapter": 2,
+   "verse": 14,
+   "text": "A la hora de comer, Booz le dijo: «Acércate, come del pan y moja tu bocado en el vino agrio». Ella se sentó al lado de los segadores, y él le ofreció grano tostado. Ella comió hasta quedar satisfecha, y aún le sobró.",
+   "notes": [
+    {
+     "text": "«vino agrio»: también «vinagre», una salsa ácida para mojar el pan.",
+     "type": "alternativa"
+    }
+   ],
+   "kind": "ai_draft",
+   "author": "ai:claude-opus-5-5",
+   "comment": null,
+   "created_at": "2026-10-20T06:42:47.894236+00:00"
+  },
+  {
+   "chapter": 2,
+   "verse": 15,
+   "text": "Cuando ella se levantó para seguir recogiendo, Booz dio órdenes a sus muchachos: «Déjenla recoger incluso entre las gavillas, y no la avergüencen.",
+   "notes": [],
+   "kind": "ai_draft",
+   "author": "ai:claude-opus-5-5",
+   "comment": null,
+   "created_at": "2026-10-20T06:42:48.225681+00:00"
+  },
+  {
+   "chapter": 2,
+   "verse": 16,
+   "text": "Además, saquen para ella algunas espigas de los manojos y déjenlas para que las recoja; y no la reprendan».",
+   "notes": [],
+   "kind": "ai_draft",
+   "author": "ai:claude-opus-5-5",
+   "comment": null,
+   "created_at": "2026-10-20T06:42:48.439544+00:00"
+  },
+  {
+   "chapter": 2,
+   "verse": 17,
+   "text": "Así que Rut recogió espigas en el campo hasta la tarde. Luego desgranó lo que había recogido, y fue como un efa de cebada.",
+   "notes": [
+    {
+     "text": "Un efa: unos 20 litros.",
+     "type": "medida"
+    }
+   ],
+   "kind": "ai_draft",
+   "author": "ai:claude-opus-5-5",
+   "comment": null,
+   "created_at": "2026-10-20T06:42:48.654088+00:00"
+  },
+  {
+   "chapter": 2,
+   "verse": 18,
+   "text": "Lo tomó y se fue a la ciudad, y su suegra vio lo que había recogido. Rut sacó también lo que le había sobrado después de quedar satisfecha, y se lo dio.",
+   "notes": [],
+   "kind": "ai_draft",
+   "author": "ai:claude-opus-5-5",
+   "comment": null,
+   "created_at": "2026-10-20T06:42:48.851567+00:00"
+  },
+  {
+   "chapter": 2,
+   "verse": 19,
+   "text": "Su suegra le preguntó: «¿Dónde recogiste espigas hoy? ¿Dónde trabajaste? ¡Bendito sea el que se fijó en ti!». Rut le contó a su suegra con quién había trabajado y le dijo: «El hombre con quien trabajé hoy se llama Booz».",
+   "notes": [],
+   "kind": "ai_draft",
+   "author": "ai:claude-opus-5-5",
+   "comment": null,
+   "created_at": "2026-10-20T06:42:49.221702+00:00"
+  },
+  {
+   "chapter": 2,
+   "verse": 20,
+   "text": "Noemí dijo a su nuera: «¡Que el SEÑOR lo bendiga, pues no ha dejado de mostrar su amor leal a los vivos y a los muertos!». Y añadió Noemí: «Ese hombre es pariente cercano nuestro; es uno de nuestros parientes redentores».",
+   "notes": [
+    {
+     "text": "El hebreo permite que «su amor leal» sea el del SEÑOR o el de Booz.",
+     "type": "alternativa"
+    },
+    {
+     "text": "«pariente redentor» (goel): el familiar con el deber de rescatar la tierra, la persona o el nombre de un pariente.",
+     "type": "significado"
+    }
+   ],
+   "kind": "ai_draft",
+   "author": "ai:claude-opus-5-5",
+   "comment": null,
+   "created_at": "2026-10-20T06:42:49.436689+00:00"
+  },
+  {
+   "chapter": 2,
+   "verse": 21,
+   "text": "Rut la moabita dijo: «Además me dijo: \"Quédate junto a mis muchachos hasta que terminen toda mi cosecha\"».",
+   "notes": [],
+   "kind": "ai_draft",
+   "author": "ai:claude-opus-5-5",
+   "comment": null,
+   "created_at": "2026-10-20T06:42:49.792853+00:00"
+  },
+  {
+   "chapter": 2,
+   "verse": 22,
+   "text": "Noemí dijo a Rut, su nuera: «Es bueno, hija mía, que salgas con sus muchachas, para que no te maltraten en otro campo».",
+   "notes": [],
+   "kind": "ai_draft",
+   "author": "ai:claude-opus-5-5",
+   "comment": null,
+   "created_at": "2026-10-20T06:42:50.019631+00:00"
+  },
+  {
+   "chapter": 2,
+   "verse": 23,
+   "text": "Así que Rut se quedó junto a las muchachas de Booz para recoger espigas hasta que terminó la cosecha de la cebada y la del trigo. Y vivía con su suegra.",
+   "notes": [],
+   "kind": "ai_draft",
+   "author": "ai:claude-opus-5-5",
+   "comment": null,
+   "created_at": "2026-10-20T06:42:50.241024+00:00"
+  },
+  {
+   "chapter": 3,
+   "verse": 1,
+   "text": "Un día Noemí, su suegra, le dijo: «Hija mía, ¿no debo buscarte un lugar de descanso donde te vaya bien?",
+   "notes": [
+    {
+     "text": "«un lugar de descanso»: un hogar seguro, como en 1:9.",
+     "type": "alternativa"
+    }
+   ],
+   "kind": "ai_draft",
+   "author": "ai:claude-opus-5-5",
+   "comment": null,
+   "created_at": "2026-10-20T06:42:50.444344+00:00"
+  },
+  {
+   "chapter": 3,
+   "verse": 2,
+   "text": "Ahora bien, ¿no es Booz, con cuyas muchachas has estado, pariente nuestro? Mira, esta noche él va a aventar la cebada en la era.",
+   "notes": [],
+   "kind": "ai_draft",
+   "author": "ai:claude-opus-5-5",
+   "comment": null,
+   "created_at": "2026-10-20T06:42:50.655134+00:00"
+  },
+  {
+   "chapter": 3,
+   "verse": 3,
+   "text": "Lávate, perfúmate, ponte tu manto y baja a la era; pero no dejes que él sepa que estás allí hasta que haya terminado de comer y de beber.",
+   "notes": [],
+   "kind": "ai_draft",
+   "author": "ai:claude-opus-5-5",
+   "comment": null,
+   "created_at": "2026-10-20T06:42:50.860598+00:00"
+  },
+  {
+   "chapter": 3,
+   "verse": 3,
+   "text": "Lávate, perfúmate, ponte tu manto y baja a la era; pero no dejes que él sepa que estás allí hasta que haya terminado de comer y de beber.",
+   "notes": [
+    {
+     "text": "El texto escrito dice «tu manto»; la lectura tradicional (qeré) dice «tus vestidos».",
+     "type": "texto"
+    }
+   ],
+   "kind": "ai_draft",
+   "author": "ai:claude-opus-5-5",
+   "comment": "Note added: the ketiv/qere difference behind «manto». Flagged by the BSB comparison.",
+   "created_at": "2026-10-21T07:21:45.786542+00:00"
+  },
+  {
+   "chapter": 3,
+   "verse": 4,
+   "text": "Cuando se acueste, fíjate en el lugar donde se acuesta; luego ve, descubre sus pies y acuéstate allí. Él te dirá lo que debes hacer».",
+   "notes": [
+    {
+     "text": "«sus pies»: literalmente «el lugar de sus pies».",
+     "type": "alternativa"
+    }
+   ],
+   "kind": "ai_draft",
+   "author": "ai:claude-opus-5-5",
+   "comment": null,
+   "created_at": "2026-10-20T06:42:51.068037+00:00"
+  },
+  {
+   "chapter": 3,
+   "verse": 5,
+   "text": "Rut le respondió: «Haré todo lo que me dices».",
+   "notes": [],
+   "kind": "ai_draft",
+   "author": "ai:claude-opus-5-5",
+   "comment": null,
+   "created_at": "2026-10-20T06:42:51.287016+00:00"
+  },
+  {
+   "chapter": 3,
+   "verse": 6,
+   "text": "Bajó, pues, a la era e hizo todo lo que su suegra le había mandado.",
+   "notes": [],
+   "kind": "ai_draft",
+   "author": "ai:claude-opus-5-5",
+   "comment": null,
+   "created_at": "2026-10-20T06:42:51.466188+00:00"
+  },
+  {
+   "chapter": 3,
+   "verse": 7,
+   "text": "Booz comió y bebió, y con el corazón contento se fue a acostar junto al montón de grano. Entonces ella llegó en silencio, le descubrió los pies y se acostó.",
+   "notes": [],
+   "kind": "ai_draft",
+   "author": "ai:claude-opus-5-5",
+   "comment": null,
+   "created_at": "2026-10-20T06:42:51.780354+00:00"
+  },
+  {
+   "chapter": 3,
+   "verse": 8,
+   "text": "A medianoche, el hombre se sobresaltó, se dio vuelta, y vio que había una mujer acostada a sus pies.",
+   "notes": [],
+   "kind": "ai_draft",
+   "author": "ai:claude-opus-5-5",
+   "comment": null,
+   "created_at": "2026-10-20T06:42:51.978609+00:00"
+  },
+  {
+   "chapter": 3,
+   "verse": 9,
+   "text": "«¿Quién eres?», le preguntó. Ella respondió: «Soy Rut, tu sierva. Extiende el ala de tu manto sobre tu sierva, porque tú eres pariente redentor».",
+   "notes": [
+    {
+     "text": "«el ala de tu manto»: la misma palabra que «alas» en 2:12. Rut pide a Booz que sea la respuesta a su propia bendición; también era un gesto de compromiso matrimonial.",
+     "type": "significado"
+    }
+   ],
+   "kind": "ai_draft",
+   "author": "ai:claude-opus-5-5",
+   "comment": null,
+   "created_at": "2026-10-20T06:42:52.22422+00:00"
+  },
+  {
+   "chapter": 3,
+   "verse": 10,
+   "text": "Él dijo: «¡Que el SEÑOR te bendiga, hija mía! Este último acto de amor leal es mayor que el primero, porque no has ido tras los jóvenes, sean pobres o ricos.",
+   "notes": [],
+   "kind": "ai_draft",
+   "author": "ai:claude-opus-5-5",
+   "comment": null,
+   "created_at": "2026-10-20T06:42:52.403668+00:00"
+  },
+  {
+   "chapter": 3,
+   "verse": 11,
+   "text": "Ahora, hija mía, no tengas miedo. Haré por ti todo lo que me pidas, porque todos en la ciudad saben que eres una mujer de valía.",
+   "notes": [
+    {
+     "text": "«todos en la ciudad»: literalmente «toda la puerta de mi pueblo», donde se reunía la comunidad.",
+     "type": "alternativa"
+    },
+    {
+     "text": "«de valía»: la misma palabra que describe a Booz en 2:1.",
+     "type": "significado"
+    }
+   ],
+   "kind": "ai_draft",
+   "author": "ai:claude-opus-5-5",
+   "comment": null,
+   "created_at": "2026-10-20T06:42:52.600152+00:00"
+  },
+  {
+   "chapter": 3,
+   "verse": 12,
+   "text": "Es cierto que soy pariente redentor; pero hay otro redentor más cercano que yo.",
+   "notes": [],
+   "kind": "ai_draft",
+   "author": "ai:claude-opus-5-5",
+   "comment": null,
+   "created_at": "2026-10-20T06:42:52.83993+00:00"
+  },
+  {
+   "chapter": 3,
+   "verse": 13,
+   "text": "Quédate esta noche, y mañana, si él quiere redimirte, que lo haga; está bien. Pero si no quiere redimirte, ¡vive el SEÑOR que yo te redimiré! Quédate acostada hasta la mañana».",
+   "notes": [],
+   "kind": "ai_draft",
+   "author": "ai:claude-opus-5-5",
+   "comment": null,
+   "created_at": "2026-10-20T06:42:53.025626+00:00"
+  },
+  {
+   "chapter": 3,
+   "verse": 14,
+   "text": "Ella se quedó acostada a sus pies hasta la mañana, y se levantó antes de que se pudiera reconocer a nadie, porque Booz pensaba: «Que no se sepa que una mujer vino a la era».",
+   "notes": [],
+   "kind": "ai_draft",
+   "author": "ai:claude-opus-5-5",
+   "comment": null,
+   "created_at": "2026-10-20T06:42:53.273024+00:00"
+  },
+  {
+   "chapter": 3,
+   "verse": 14,
+   "text": "Ella se quedó acostada a sus pies hasta la mañana, y se levantó antes de que se pudiera reconocer a nadie, porque Booz pensaba: «Que no se sepa que una mujer vino a la era».",
+   "notes": [
+    {
+     "text": "«pensaba»: el verbo hebreo suele significar «dijo»; también puede introducir un pensamiento.",
+     "type": "alternativa"
+    }
+   ],
+   "kind": "ai_draft",
+   "author": "ai:claude-opus-5-5",
+   "comment": "Note added: the Hebrew verb usually means \"said\". Flagged by the BSB comparison.",
+   "created_at": "2026-10-21T07:21:48.499244+00:00"
+  },
+  {
+   "chapter": 3,
+   "verse": 15,
+   "text": "Luego le dijo: «Trae el manto que llevas puesto y sujétalo». Ella lo sujetó, y él midió seis medidas de cebada y se las cargó encima. Después él se fue a la ciudad.",
+   "notes": [
+    {
+     "text": "Muchos manuscritos hebreos dicen «él se fue»; otros, y algunas versiones antiguas, «ella se fue».",
+     "type": "texto"
+    },
+    {
+     "text": "No se dice qué medida; probablemente una cantidad que ella pudiera cargar.",
+     "type": "medida"
+    }
+   ],
+   "kind": "ai_draft",
+   "author": "ai:claude-opus-5-5",
+   "comment": null,
+   "created_at": "2026-10-20T06:42:53.465207+00:00"
+  },
+  {
+   "chapter": 3,
+   "verse": 16,
+   "text": "Cuando Rut llegó a donde estaba su suegra, esta le preguntó: «¿Cómo te fue, hija mía?». Y Rut le contó todo lo que aquel hombre había hecho por ella.",
+   "notes": [
+    {
+     "text": "Literalmente «¿Quién eres, hija mía?».",
+     "type": "alternativa"
+    }
+   ],
+   "kind": "ai_draft",
+   "author": "ai:claude-opus-5-5",
+   "comment": null,
+   "created_at": "2026-10-20T06:42:53.658906+00:00"
+  },
+  {
+   "chapter": 3,
+   "verse": 17,
+   "text": "Y añadió: «Me dio estas seis medidas de cebada, pues me dijo: \"No vuelvas a tu suegra con las manos vacías\"».",
+   "notes": [
+    {
+     "text": "«vacías» recuerda 1:21: Noemí volvió vacía; ahora no volverá así.",
+     "type": "significado"
+    }
+   ],
+   "kind": "ai_draft",
+   "author": "ai:claude-opus-5-5",
+   "comment": null,
+   "created_at": "2026-10-20T06:42:53.884919+00:00"
+  },
+  {
+   "chapter": 3,
+   "verse": 18,
+   "text": "Noemí le dijo: «Quédate tranquila, hija mía, hasta que sepas cómo termina el asunto, porque ese hombre no descansará hasta resolverlo hoy mismo».",
+   "notes": [],
+   "kind": "ai_draft",
+   "author": "ai:claude-opus-5-5",
+   "comment": null,
+   "created_at": "2026-10-20T06:42:54.091362+00:00"
+  },
+  {
+   "chapter": 4,
+   "verse": 1,
+   "text": "Booz subió a la puerta de la ciudad y se sentó allí. En ese momento pasaba el pariente redentor de quien Booz había hablado, y Booz le dijo: «Ven, fulano, siéntate aquí». Él se acercó y se sentó.",
+   "notes": [
+    {
+     "text": "«fulano» (pelóni almoní): el narrador no dice su nombre.",
+     "type": "significado"
+    }
+   ],
+   "kind": "ai_draft",
+   "author": "ai:claude-opus-5-5",
+   "comment": null,
+   "created_at": "2026-10-20T06:42:54.312919+00:00"
+  },
+  {
+   "chapter": 4,
+   "verse": 2,
+   "text": "Luego Booz tomó a diez hombres de los ancianos de la ciudad y les dijo: «Siéntense aquí». Y ellos se sentaron.",
+   "notes": [],
+   "kind": "ai_draft",
+   "author": "ai:claude-opus-5-5",
+   "comment": null,
+   "created_at": "2026-10-20T06:42:54.502726+00:00"
+  },
+  {
+   "chapter": 4,
+   "verse": 3,
+   "text": "Entonces dijo al pariente redentor: «Noemí, que ha vuelto de los campos de Moab, está vendiendo la parcela de tierra que pertenecía a nuestro hermano Elimelec.",
+   "notes": [
+    {
+     "text": "«nuestro hermano»: nuestro pariente.",
+     "type": "alternativa"
+    }
+   ],
+   "kind": "ai_draft",
+   "author": "ai:claude-opus-5-5",
+   "comment": null,
+   "created_at": "2026-10-20T06:42:54.689897+00:00"
+  },
+  {
+   "chapter": 4,
+   "verse": 4,
+   "text": "Pensé informarte y decirte: \"Cómprala en presencia de los que están sentados aquí y de los ancianos de mi pueblo\". Si la vas a redimir, redímela; pero si no, dímelo para que yo lo sepa, porque nadie más que tú tiene el derecho de redimirla, y yo vengo después de ti». Él respondió: «Yo la redimiré».",
+   "notes": [],
+   "kind": "ai_draft",
+   "author": "ai:claude-opus-5-5",
+   "comment": null,
+   "created_at": "2026-10-20T06:42:55.053957+00:00"
+  },
+  {
+   "chapter": 4,
+   "verse": 5,
+   "text": "Booz le dijo: «El día que compres el campo de manos de Noemí, también adquieres a Rut la moabita, la viuda del difunto, para mantener el nombre del difunto sobre su heredad».",
+   "notes": [
+    {
+     "text": "El texto escrito dice «yo adquiero»; la lectura tradicional (qeré) dice «tú adquieres». Seguimos la lectura tradicional.",
+     "type": "texto"
+    }
+   ],
+   "kind": "ai_draft",
+   "author": "ai:claude-opus-5-5",
+   "comment": null,
+   "created_at": "2026-10-20T06:42:55.25215+00:00"
+  },
+  {
+   "chapter": 4,
+   "verse": 6,
+   "text": "El pariente redentor respondió: «Entonces no puedo redimirla, porque perjudicaría mi propia heredad. Redímela tú; toma tú mi derecho de redención, porque yo no puedo hacerlo».",
+   "notes": [],
+   "kind": "ai_draft",
+   "author": "ai:claude-opus-5-5",
+   "comment": null,
+   "created_at": "2026-10-20T06:42:55.461653+00:00"
+  },
+  {
+   "chapter": 4,
+   "verse": 7,
+   "text": "Antiguamente, en Israel, para confirmar cualquier asunto de redención o de intercambio, uno se quitaba la sandalia y se la daba al otro. Así se daba validez a un acuerdo en Israel.",
+   "notes": [],
+   "kind": "ai_draft",
+   "author": "ai:claude-opus-5-5",
+   "comment": null,
+   "created_at": "2026-10-20T06:42:55.693076+00:00"
+  },
+  {
+   "chapter": 4,
+   "verse": 8,
+   "text": "Así que el pariente redentor dijo a Booz: «Cómprala tú». Y se quitó la sandalia.",
+   "notes": [],
+   "kind": "ai_draft",
+   "author": "ai:claude-opus-5-5",
+   "comment": null,
+   "created_at": "2026-10-20T06:42:55.973864+00:00"
+  },
+  {
+   "chapter": 4,
+   "verse": 9,
+   "text": "Entonces Booz dijo a los ancianos y a todo el pueblo: «Ustedes son hoy testigos de que he adquirido de manos de Noemí todo lo que pertenecía a Elimelec y todo lo que pertenecía a Quelión y a Mahlón.",
+   "notes": [],
+   "kind": "ai_draft",
+   "author": "ai:claude-opus-5-5",
+   "comment": null,
+   "created_at": "2026-10-20T06:42:56.168585+00:00"
+  },
+  {
+   "chapter": 4,
+   "verse": 10,
+   "text": "Además, he adquirido como esposa a Rut la moabita, viuda de Mahlón, para mantener el nombre del difunto sobre su heredad, para que su nombre no desaparezca de entre sus hermanos ni de la puerta de su ciudad. Ustedes son hoy testigos».",
+   "notes": [],
+   "kind": "ai_draft",
+   "author": "ai:claude-opus-5-5",
+   "comment": null,
+   "created_at": "2026-10-20T06:42:56.526614+00:00"
+  },
+  {
+   "chapter": 4,
+   "verse": 11,
+   "text": "Todo el pueblo que estaba a la puerta, y los ancianos, dijeron: «Somos testigos. Que el SEÑOR haga a la mujer que entra en tu casa como a Raquel y a Lea, las dos que edificaron la casa de Israel. Que muestres tu valía en Efrata y que tu nombre sea famoso en Belén.",
+   "notes": [
+    {
+     "text": "«Que muestres tu valía»: también «que prosperes»; es la misma palabra de 2:1 y 3:11.",
+     "type": "alternativa"
+    }
+   ],
+   "kind": "ai_draft",
+   "author": "ai:claude-opus-5-5",
+   "comment": null,
+   "created_at": "2026-10-20T06:42:56.843636+00:00"
+  },
+  {
+   "chapter": 4,
+   "verse": 12,
+   "text": "Y por los hijos que el SEÑOR te dé de esta joven, que tu casa sea como la casa de Fares, el hijo que Tamar dio a Judá».",
+   "notes": [],
+   "kind": "ai_draft",
+   "author": "ai:claude-opus-5-5",
+   "comment": null,
+   "created_at": "2026-10-20T06:42:57.131637+00:00"
+  },
+  {
+   "chapter": 4,
+   "verse": 13,
+   "text": "Así que Booz tomó a Rut, y ella llegó a ser su esposa. Él se unió a ella, y el SEÑOR le concedió concebir, y dio a luz un hijo.",
+   "notes": [],
+   "kind": "ai_draft",
+   "author": "ai:claude-opus-5-5",
+   "comment": null,
+   "created_at": "2026-10-20T06:42:57.350889+00:00"
+  },
+  {
+   "chapter": 4,
+   "verse": 14,
+   "text": "Entonces las mujeres dijeron a Noemí: «¡Bendito sea el SEÑOR, que no te ha dejado hoy sin un redentor! Que su nombre sea famoso en Israel.",
+   "notes": [
+    {
+     "text": "«su nombre» puede referirse al niño o al SEÑOR.",
+     "type": "alternativa"
+    }
+   ],
+   "kind": "ai_draft",
+   "author": "ai:claude-opus-5-5",
+   "comment": null,
+   "created_at": "2026-10-20T06:42:57.571819+00:00"
+  },
+  {
+   "chapter": 4,
+   "verse": 15,
+   "text": "Él te hará volver a la vida y te sostendrá en tu vejez, porque lo ha dado a luz tu nuera, que te ama y que vale para ti más que siete hijos».",
+   "notes": [
+    {
+     "text": "«te hará volver a la vida» usa el verbo «volver» que atraviesa el capítulo 1.",
+     "type": "significado"
+    }
+   ],
+   "kind": "ai_draft",
+   "author": "ai:claude-opus-5-5",
+   "comment": null,
+   "created_at": "2026-10-20T06:42:57.794636+00:00"
+  },
+  {
+   "chapter": 4,
+   "verse": 16,
+   "text": "Noemí tomó al niño, lo puso en su regazo y se encargó de criarlo.",
+   "notes": [],
+   "kind": "ai_draft",
+   "author": "ai:claude-opus-5-5",
+   "comment": null,
+   "created_at": "2026-10-20T06:42:57.988822+00:00"
+  },
+  {
+   "chapter": 4,
+   "verse": 16,
+   "text": "Noemí tomó al niño, lo puso en su regazo y se encargó de criarlo.",
+   "notes": [
+    {
+     "text": "«lo cuidó como nodriza»: más cerca de la palabra hebrea (omenet).",
+     "type": "alternativa"
+    }
+   ],
+   "kind": "ai_draft",
+   "author": "ai:claude-opus-5-5",
+   "comment": "Note added: the closer rendering of omenet. Flagged by the BSB comparison.",
+   "created_at": "2026-10-21T07:21:53.862867+00:00"
+  },
+  {
+   "chapter": 4,
+   "verse": 17,
+   "text": "Las vecinas le pusieron un nombre, diciendo: «¡A Noemí le ha nacido un hijo!». Y lo llamaron Obed. Él fue el padre de Isaí, padre de David.",
+   "notes": [
+    {
+     "text": "Obed: «siervo», «el que sirve».",
+     "type": "significado"
+    }
+   ],
+   "kind": "ai_draft",
+   "author": "ai:claude-opus-5-5",
+   "comment": null,
+   "created_at": "2026-10-20T06:42:58.189425+00:00"
+  },
+  {
+   "chapter": 4,
+   "verse": 18,
+   "text": "Estos son los descendientes de Fares: Fares fue el padre de Hezrón;",
+   "notes": [],
+   "kind": "ai_draft",
+   "author": "ai:claude-opus-5-5",
+   "comment": null,
+   "created_at": "2026-10-20T06:42:58.394561+00:00"
+  },
+  {
+   "chapter": 4,
+   "verse": 19,
+   "text": "Hezrón fue el padre de Ram; Ram fue el padre de Aminadab;",
+   "notes": [],
+   "kind": "ai_draft",
+   "author": "ai:claude-opus-5-5",
+   "comment": null,
+   "created_at": "2026-10-20T06:42:58.622316+00:00"
+  },
+  {
+   "chapter": 4,
+   "verse": 20,
+   "text": "Aminadab fue el padre de Naasón; Naasón fue el padre de Salmón;",
+   "notes": [],
+   "kind": "ai_draft",
+   "author": "ai:claude-opus-5-5",
+   "comment": null,
+   "created_at": "2026-10-20T06:42:58.809732+00:00"
+  },
+  {
+   "chapter": 4,
+   "verse": 21,
+   "text": "Salmón fue el padre de Booz; Booz fue el padre de Obed;",
+   "notes": [],
+   "kind": "ai_draft",
+   "author": "ai:claude-opus-5-5",
+   "comment": null,
+   "created_at": "2026-10-20T06:42:59.03753+00:00"
+  },
+  {
+   "chapter": 4,
+   "verse": 22,
+   "text": "Obed fue el padre de Isaí, e Isaí fue el padre de David.",
+   "notes": [],
+   "kind": "ai_draft",
+   "author": "ai:claude-opus-5-5",
+   "comment": null,
+   "created_at": "2026-10-20T06:42:59.251405+00:00"
+  }
+ ]
+}

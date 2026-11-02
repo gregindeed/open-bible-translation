@@ -1,0 +1,204 @@
+{
+ "edition": "vt",
+ "edition_name": "Versión Testigo",
+ "language": "es",
+ "book": {
+  "index": 7,
+  "osis": "Ruth",
+  "slug": "ruth",
+  "name": "Rut"
+ },
+ "source": "Westminster Leningrad Codex (public domain)",
+ "license": "CC BY-SA 4.0",
+ "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+ "attribution": "Versión Testigo (VT), edición en español de la Open Bible Translation, github.com/gregindeed/open-bible-translation — CC BY-SA 4.0",
+ "status": {
+  "draft": 85,
+  "reviewed": 0,
+  "approved": 0
+ },
+ "updated": "2026-10-21",
+ "chapter": 1,
+ "verses": [
+  {
+   "verse": 1,
+   "text": "En los días en que gobernaban los jueces, hubo hambre en el país. Y un hombre de Belén de Judá se fue a vivir como forastero en los campos de Moab, él con su esposa y sus dos hijos.",
+   "notes": [
+    {
+     "text": "Belén significa «casa de pan»: la historia empieza con hambre en la casa del pan.",
+     "type": "significado"
+    }
+   ],
+   "status": "draft"
+  },
+  {
+   "verse": 2,
+   "text": "El hombre se llamaba Elimelec; su esposa, Noemí; y sus dos hijos, Mahlón y Quelión. Eran efrateos, de Belén de Judá. Llegaron a los campos de Moab y se quedaron allí.",
+   "notes": [
+    {
+     "text": "Elimelec: «mi Dios es rey». Noemí: «agradable».",
+     "type": "significado"
+    }
+   ],
+   "status": "draft"
+  },
+  {
+   "verse": 3,
+   "text": "Pero Elimelec, el esposo de Noemí, murió, y ella quedó con sus dos hijos.",
+   "status": "draft"
+  },
+  {
+   "verse": 4,
+   "text": "Ellos se casaron con mujeres moabitas; una se llamaba Orfa y la otra, Rut. Vivieron allí unos diez años.",
+   "notes": [
+    {
+     "text": "«tomaron para sí mujeres moabitas».",
+     "type": "alternativa"
+    }
+   ],
+   "status": "draft"
+  },
+  {
+   "verse": 5,
+   "text": "Luego murieron también los dos, Mahlón y Quelión, y la mujer quedó sin sus dos muchachos y sin su esposo.",
+   "notes": [
+    {
+     "text": "«muchachos» traduce yeladím (niños, muchachos), no la palabra habitual para «hijos»; el autor cambia de palabra a propósito.",
+     "type": "alternativa"
+    }
+   ],
+   "status": "draft"
+  },
+  {
+   "verse": 6,
+   "text": "Entonces ella se levantó con sus nueras para volver de los campos de Moab, porque en los campos de Moab había oído que el SEÑOR había venido en ayuda de su pueblo y les había dado pan.",
+   "notes": [
+    {
+     "text": "«había visitado a su pueblo» (verbo paqad).",
+     "type": "alternativa"
+    },
+    {
+     "text": "«pan» (léjem) hace eco del nombre Belén, «casa de pan».",
+     "type": "significado"
+    }
+   ],
+   "status": "draft"
+  },
+  {
+   "verse": 7,
+   "text": "Así que salió del lugar donde había vivido, y sus dos nueras con ella, y emprendieron el camino para volver a la tierra de Judá.",
+   "status": "draft"
+  },
+  {
+   "verse": 8,
+   "text": "Pero Noemí dijo a sus dos nueras: «Vayan, vuelva cada una a la casa de su madre. Que el SEÑOR les muestre amor leal, como ustedes lo han mostrado con los que murieron y conmigo.",
+   "notes": [
+    {
+     "text": "«amor leal» (jésed): también «bondad», «lealtad», «fidelidad».",
+     "type": "alternativa"
+    }
+   ],
+   "status": "draft"
+  },
+  {
+   "verse": 9,
+   "text": "Que el SEÑOR les conceda encontrar descanso, cada una en la casa de un esposo». Y las besó; pero ellas alzaron la voz y lloraron,",
+   "notes": [
+    {
+     "text": "«descanso»: un hogar seguro, estabilidad.",
+     "type": "alternativa"
+    }
+   ],
+   "status": "draft"
+  },
+  {
+   "verse": 10,
+   "text": "y le dijeron: «No; nosotras volveremos contigo a tu pueblo».",
+   "status": "draft"
+  },
+  {
+   "verse": 11,
+   "text": "Pero Noemí respondió: «Vuelvan, hijas mías. ¿Para qué van a venir conmigo? ¿Acaso tengo todavía hijos en mi vientre que puedan llegar a ser sus esposos?",
+   "status": "draft"
+  },
+  {
+   "verse": 12,
+   "text": "Vuelvan, hijas mías, váyanse, porque ya soy demasiado vieja para tener esposo. Y aunque dijera: \"Todavía tengo esperanza\", y aunque esta misma noche tuviera esposo y diera a luz hijos,",
+   "status": "draft"
+  },
+  {
+   "verse": 13,
+   "text": "¿los esperarían ustedes hasta que crecieran? ¿Se quedarían sin casarse por ellos? No, hijas mías; mi amargura es mucho mayor que la de ustedes, porque la mano del SEÑOR se ha levantado contra mí».",
+   "notes": [
+    {
+     "text": "El hebreo también puede entenderse: «me causa mucha amargura por causa de ustedes».",
+     "type": "alternativa"
+    }
+   ],
+   "status": "draft"
+  },
+  {
+   "verse": 14,
+   "text": "Ellas volvieron a alzar la voz y a llorar. Luego Orfa besó a su suegra, pero Rut se aferró a ella.",
+   "status": "draft"
+  },
+  {
+   "verse": 15,
+   "text": "Noemí le dijo: «Mira, tu cuñada vuelve a su pueblo y a sus dioses. Vuelve tú también con tu cuñada».",
+   "status": "draft"
+  },
+  {
+   "verse": 16,
+   "text": "Pero Rut respondió: «No me pidas que te deje y que me vuelva atrás sin ti. A donde tú vayas, iré yo; donde tú pases la noche, allí la pasaré yo. Tu pueblo será mi pueblo, y tu Dios será mi Dios.",
+   "status": "draft"
+  },
+  {
+   "verse": 17,
+   "text": "Donde tú mueras, moriré yo, y allí seré sepultada. Que el SEÑOR me haga así, y aún peor, si otra cosa que la muerte me separa de ti».",
+   "notes": [
+    {
+     "text": "Fórmula de juramento: Rut pone su vida bajo el juicio del SEÑOR si no cumple.",
+     "type": "significado"
+    }
+   ],
+   "status": "draft"
+  },
+  {
+   "verse": 18,
+   "text": "Cuando Noemí vio que Rut estaba decidida a ir con ella, dejó de insistirle.",
+   "status": "draft"
+  },
+  {
+   "verse": 19,
+   "text": "Así que las dos siguieron caminando hasta llegar a Belén. Cuando entraron en Belén, toda la ciudad se conmovió por causa de ellas, y las mujeres decían: «¿No es esta Noemí?».",
+   "status": "draft"
+  },
+  {
+   "verse": 20,
+   "text": "Ella les respondía: «No me llamen Noemí; llámenme Mara, porque el Todopoderoso ha hecho muy amarga mi vida.",
+   "notes": [
+    {
+     "text": "Noemí: «agradable»; Mara: «amarga».",
+     "type": "significado"
+    }
+   ],
+   "status": "draft"
+  },
+  {
+   "verse": 21,
+   "text": "Llena me fui, pero vacía me ha hecho volver el SEÑOR. ¿Por qué me llaman Noemí, si el SEÑOR ha dado testimonio contra mí y el Todopoderoso me ha afligido?».",
+   "notes": [
+    {
+     "text": "«ha dado testimonio contra mí» sigue el texto hebreo; la Septuaginta dice «me ha humillado».",
+     "type": "texto"
+    }
+   ],
+   "status": "draft"
+  },
+  {
+   "verse": 22,
+   "text": "Así volvió Noemí, y con ella Rut la moabita, su nuera, que volvía de los campos de Moab. Llegaron a Belén al comienzo de la cosecha de la cebada.",
+   "status": "draft"
+  }
+ ]
+}
